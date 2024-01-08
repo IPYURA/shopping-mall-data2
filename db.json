@@ -1,0 +1,93 @@
+[
+  {
+    "id": 0,
+    "name": "[패션플러스][어프어프]어프어프 SHOPPING POPO-IVORY(아이패드-커버) E2304_0254",
+    "price": 31900,
+    "freedelivery": true,
+    "image": "https://contents.lotteon.com/itemimage/_v054740/LO/21/20/04/70/46/_2/12/00/47/04/7/LO2120047046_2120047047_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 1,
+    "name": "[패션플러스][어프어프]어프어프 SHOPPING POPO(맥북-클리어하드) E2304_0275",
+    "price": 31900,
+    "freedelivery": true,
+    "image": "https://contents.lotteon.com/itemimage/_v054744/LO/21/20/04/70/55/_2/12/00/47/05/6/LO2120047055_2120047056_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 2,
+    "name": "우탄크래프트 우탄크래프트 가방 Foldable Shopping Bag 5L Olive Green",
+    "price": 75000,
+    "freedelivery": true,
+    "image": "https://contents.lotteon.com/itemimage/20240104143707/LO/10/59/05/81/27/_1/05/90/58/12/9/LO1059058127_1059058129_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 3,
+    "name": "SHOPPING POPO(젤리)",
+    "price": 11900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231228010834/LO/21/11/84/52/38/_2/11/18/45/23/9/LO2111845238_2111845239_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 4,
+    "name": "SHOPPING POPO-IVORY(하드)",
+    "price": 11900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231228010625/LO/21/11/84/36/37/_2/11/18/43/63/8/LO2111843637_2111843638_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 5,
+    "name": "SHOPPING POPO-IVORY(슬라이드)",
+    "price": 14900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231228010139/LO/21/11/79/76/23/_2/11/17/97/62/4/LO2111797623_2111797624_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 6,
+    "name": "SHOPPING POPO(에어팟-클리어)",
+    "price": 10900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231228005801/LO/21/11/79/70/47/_2/11/17/97/04/8/LO2111797047_2111797048_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 7,
+    "name": "SHOPPING POPO-IVORY(하트톡)",
+    "price": 9800,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/_v055037/LO/21/11/79/60/91/_2/11/17/96/09/2/LO2111796091_2111796092_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 8,
+    "name": "SHOPPING POPO-IVORY(스마트톡)",
+    "price": 8900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231228010200/LO/21/11/79/65/04/_2/11/17/96/50/5/LO2111796504_2111796505_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 9,
+    "name": "SHOPPING POPO-NAVY(컬러젤리)",
+    "price": 11900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231206192529/LO/21/11/75/93/32/_2/11/17/59/33/3/LO2111759332_2111759333_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 10,
+    "name": "[텐바이텐] SHOPPING POPO-IVORY(슬라이드)",
+    "price": 14900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231023043635/LO/21/98/78/94/71/_2/19/87/89/47/2/LO2198789471_2198789472_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 11,
+    "name": "SHOPPING POPO-IVORY(Z플립-하드)",
+    "price": 11900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231228010757/LO/21/11/79/68/36/_2/11/17/96/83/7/LO2111796836_2111796837_1.jpg/dims/optimize/dims/resizemc/400x400"
+  },
+  {
+    "id": 12,
+    "name": "[텐바이텐] SHOPPING POPO(젤리)",
+    "price": 11900,
+    "freedelivery": false,
+    "image": "https://contents.lotteon.com/itemimage/20231029143448/LO/22/01/92/50/64/_2/20/19/25/06/5/LO2201925064_2201925065_1.jpg/dims/optimize/dims/resizemc/400x400"
+  }
+]
